@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this empirical dataset in academic or quantitative research, please cite it as below."
+authors:
+  - name: "Grid Bot Wars Quantitative Lab"
+    affiliation: "Grid Bot Wars"
+title: "Grid Bot Wars: High-Frequency Cryptocurrency Grid Trading Empirical Dataset (50 Bots Benchmark)"
+version: 3.0.0
+date-released: 2026-09-01
+url: "https://gridbotwars.com/"
+repository-code: "https://github.com/tffsgsff-ops/grid-bot-trading-dataset"
+license: "CC-BY-NC-4.0"
+keywords:
+  - quantitative trading
+  - grid trading
+  - cryptocurrency
+  - bybit
+  - algorithmic trading
