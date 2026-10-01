@@ -1,0 +1,502 @@
+[
+  {
+    "rank": "1",
+    "name": "ETH InfinityLoop",
+    "direction": "Neutral",
+    "grids": 45,
+    "trades": 284,
+    "profit": "+895.42%",
+    "status": "Champion",
+    "medal": "🥇"
+  },
+  {
+    "rank": "2",
+    "name": "SOL VelocityRider",
+    "direction": "Long",
+    "grids": 30,
+    "trades": 195,
+    "profit": "+840.15%",
+    "status": "Runner-up",
+    "medal": "🥈"
+  },
+  {
+    "rank": "3",
+    "name": "BTC MacroCrusher",
+    "direction": "Neutral",
+    "grids": 50,
+    "trades": 310,
+    "profit": "+780.60%",
+    "status": "Podium",
+    "medal": "🥉"
+  },
+  {
+    "rank": "4",
+    "name": "BNB ChainMaster",
+    "direction": "Neutral",
+    "grids": 25,
+    "trades": 150,
+    "profit": "+650.33%",
+    "status": "Profit Zone",
+    "medal": ""
+  },
+  {
+    "rank": "5",
+    "name": "AVAX PeakClimber",
+    "direction": "Long",
+    "grids": 40,
+    "trades": 212,
+    "profit": "+590.21%",
+    "status": "Profit Zone",
+    "medal": ""
+  },
+  {
+    "rank": "6",
+    "name": "XRP RapidFlow",
+    "direction": "Neutral",
+    "grids": 20,
+    "trades": 135,
+    "profit": "+520.88%",
+    "status": "Profit Zone",
+    "medal": ""
+  },
+  {
+    "rank": "7",
+    "name": "DOGE MemeEngine",
+    "direction": "Long",
+    "grids": 15,
+    "trades": 95,
+    "profit": "+480.12%",
+    "status": "Profit Zone",
+    "medal": ""
+  },
+  {
+    "rank": "8",
+    "name": "LINK OracleNode",
+    "direction": "Neutral",
+    "grids": 35,
+    "trades": 170,
+    "profit": "+435.67%",
+    "status": "Profit Zone",
+    "medal": ""
+  },
+  {
+    "rank": "9",
+    "name": "MATIC PolyScale",
+    "direction": "Long",
+    "grids": 28,
+    "trades": 142,
+    "profit": "+390.44%",
+    "status": "Profit Zone",
+    "medal": ""
+  },
+  {
+    "rank": "10",
+    "name": "ADA SmartContract",
+    "direction": "Neutral",
+    "grids": 33,
+    "trades": 125,
+    "profit": "+315.90%",
+    "status": "Profit Zone",
+    "medal": ""
+  },
+  {
+    "rank": "11",
+    "name": "DOT RelayWeaver",
+    "direction": "Neutral",
+    "grids": 22,
+    "trades": 110,
+    "profit": "+280.45%",
+    "status": "Profit Zone",
+    "medal": ""
+  },
+  {
+    "rank": "12",
+    "name": "INJ NinjaStrike",
+    "direction": "Short",
+    "grids": 18,
+    "trades": 92,
+    "profit": "+255.10%",
+    "status": "Profit Zone",
+    "medal": ""
+  },
+  {
+    "rank": "13",
+    "name": "APT AptosSurge",
+    "direction": "Long",
+    "grids": 26,
+    "trades": 118,
+    "profit": "+210.85%",
+    "status": "Profit Zone",
+    "medal": ""
+  },
+  {
+    "rank": "14",
+    "name": "LTC LiteRunner",
+    "direction": "Neutral",
+    "grids": 30,
+    "trades": 135,
+    "profit": "+185.30%",
+    "status": "Profit Zone",
+    "medal": ""
+  },
+  {
+    "rank": "15",
+    "name": "ATOM CosmicRay",
+    "direction": "Neutral",
+    "grids": 24,
+    "trades": 104,
+    "profit": "+160.75%",
+    "status": "Profit Zone",
+    "medal": ""
+  },
+  {
+    "rank": "16",
+    "name": "TON GramVault",
+    "direction": "Long",
+    "grids": 21,
+    "trades": 85,
+    "profit": "+145.20%",
+    "status": "Profit Zone",
+    "medal": ""
+  },
+  {
+    "rank": "17",
+    "name": "TRX TronCore",
+    "direction": "Neutral",
+    "grids": 40,
+    "trades": 180,
+    "profit": "+130.65%",
+    "status": "Profit Zone",
+    "medal": ""
+  },
+  {
+    "rank": "18",
+    "name": "UNI DexAggregator",
+    "direction": "Neutral",
+    "grids": 19,
+    "trades": 76,
+    "profit": "+115.40%",
+    "status": "Profit Zone",
+    "medal": ""
+  },
+  {
+    "rank": "19",
+    "name": "XMR GhostProtocol",
+    "direction": "Short",
+    "grids": 15,
+    "trades": 55,
+    "profit": "+95.80%",
+    "status": "Profit Zone",
+    "medal": ""
+  },
+  {
+    "rank": "20",
+    "name": "SHIB Shibarium",
+    "direction": "Long",
+    "grids": 20,
+    "trades": 90,
+    "profit": "+88.35%",
+    "status": "Profit Zone",
+    "medal": ""
+  },
+  {
+    "rank": "21",
+    "name": "ETH EtherScalp",
+    "direction": "Short",
+    "grids": 16,
+    "trades": 65,
+    "profit": "+82.10%",
+    "status": "Profit Zone",
+    "medal": ""
+  },
+  {
+    "rank": "22",
+    "name": "SOL SolFlare",
+    "direction": "Neutral",
+    "grids": 28,
+    "trades": 115,
+    "profit": "+76.45%",
+    "status": "Profit Zone",
+    "medal": ""
+  },
+  {
+    "rank": "23",
+    "name": "BTC SatAccumulator",
+    "direction": "Long",
+    "grids": 35,
+    "trades": 140,
+    "profit": "+71.20%",
+    "status": "Profit Zone",
+    "medal": ""
+  },
+  {
+    "rank": "24",
+    "name": "BNB BNBVault",
+    "direction": "Neutral",
+    "grids": 22,
+    "trades": 88,
+    "profit": "+65.90%",
+    "status": "Profit Zone",
+    "medal": ""
+  },
+  {
+    "rank": "25",
+    "name": "AVAX SnowSlide",
+    "direction": "Short",
+    "grids": 14,
+    "trades": 45,
+    "profit": "+58.30%",
+    "status": "Profit Zone",
+    "medal": ""
+  },
+  {
+    "rank": "26",
+    "name": "XRP RippleEffect",
+    "direction": "Neutral",
+    "grids": 30,
+    "trades": 120,
+    "profit": "+51.65%",
+    "status": "Profit Zone",
+    "medal": ""
+  },
+  {
+    "rank": "27",
+    "name": "DOGE MoonWalk",
+    "direction": "Long",
+    "grids": 18,
+    "trades": 75,
+    "profit": "+45.20%",
+    "status": "Profit Zone",
+    "medal": ""
+  },
+  {
+    "rank": "28",
+    "name": "LINK ChainLinker",
+    "direction": "Neutral",
+    "grids": 25,
+    "trades": 95,
+    "profit": "+38.90%",
+    "status": "Profit Zone",
+    "medal": ""
+  },
+  {
+    "rank": "29",
+    "name": "MATIC PolygonNet",
+    "direction": "Neutral",
+    "grids": 32,
+    "trades": 130,
+    "profit": "+32.40%",
+    "status": "Profit Zone",
+    "medal": ""
+  },
+  {
+    "rank": "30",
+    "name": "ADA CardanoBase",
+    "direction": "Long",
+    "grids": 24,
+    "trades": 85,
+    "profit": "+27.15%",
+    "status": "Profit Zone",
+    "medal": ""
+  },
+  {
+    "rank": "31",
+    "name": "DOT PolkaDot",
+    "direction": "Neutral",
+    "grids": 20,
+    "trades": 72,
+    "profit": "+21.80%",
+    "status": "Profit Zone",
+    "medal": ""
+  },
+  {
+    "rank": "32",
+    "name": "INJ Injector",
+    "direction": "Short",
+    "grids": 15,
+    "trades": 48,
+    "profit": "+16.50%",
+    "status": "Profit Zone",
+    "medal": ""
+  },
+  {
+    "rank": "33",
+    "name": "APT AptosNet",
+    "direction": "Neutral",
+    "grids": 26,
+    "trades": 90,
+    "profit": "+11.90%",
+    "status": "Profit Zone",
+    "medal": ""
+  },
+  {
+    "rank": "34",
+    "name": "LTC SilverLining",
+    "direction": "Neutral",
+    "grids": 28,
+    "trades": 102,
+    "profit": "+8.45%",
+    "status": "Profit Zone",
+    "medal": ""
+  },
+  {
+    "rank": "35",
+    "name": "ATOM CosmosHub",
+    "direction": "Long",
+    "grids": 22,
+    "trades": 76,
+    "profit": "+5.30%",
+    "status": "Profit Zone",
+    "medal": ""
+  },
+  {
+    "rank": "36",
+    "name": "TON TonCoin",
+    "direction": "Neutral",
+    "grids": 30,
+    "trades": 115,
+    "profit": "+2.85%",
+    "status": "Profit Zone",
+    "medal": ""
+  },
+  {
+    "rank": "37",
+    "name": "TRX TronNet",
+    "direction": "Neutral",
+    "grids": 35,
+    "trades": 140,
+    "profit": "+0.95%",
+    "status": "Profit Zone",
+    "medal": ""
+  },
+  {
+    "rank": "38",
+    "name": "ADA BleedingEdge",
+    "direction": "Neutral",
+    "grids": 33,
+    "trades": 49,
+    "profit": "-12.73%",
+    "status": "Drawdown",
+    "medal": ""
+  },
+  {
+    "rank": "39",
+    "name": "LTC HeavyAnchor",
+    "direction": "Long",
+    "grids": 28,
+    "trades": 66,
+    "profit": "-22.71%",
+    "status": "Drawdown",
+    "medal": ""
+  },
+  {
+    "rank": "40",
+    "name": "TRX RangeOut",
+    "direction": "Neutral",
+    "grids": 30,
+    "trades": 27,
+    "profit": "-35.82%",
+    "status": "Severe Loss",
+    "medal": ""
+  },
+  {
+    "rank": "41",
+    "name": "UNI BrokenSteel",
+    "direction": "Neutral",
+    "grids": 24,
+    "trades": 13,
+    "profit": "-48.66%",
+    "status": "Severe Loss",
+    "medal": ""
+  },
+  {
+    "rank": "42",
+    "name": "ATOM DownwardDrift",
+    "direction": "Long",
+    "grids": 19,
+    "trades": 42,
+    "profit": "-55.19%",
+    "status": "Severe Loss",
+    "medal": ""
+  },
+  {
+    "rank": "43",
+    "name": "XMR SlipHazard",
+    "direction": "Neutral",
+    "grids": 16,
+    "trades": 22,
+    "profit": "-63.51%",
+    "status": "Critical Range Out",
+    "medal": ""
+  },
+  {
+    "rank": "44",
+    "name": "TON UnderWater",
+    "direction": "Neutral",
+    "grids": 22,
+    "trades": 51,
+    "profit": "-78.72%",
+    "status": "Critical Range Out",
+    "medal": ""
+  },
+  {
+    "rank": "45",
+    "name": "APT RangeBreaker",
+    "direction": "Neutral",
+    "grids": 20,
+    "trades": 23,
+    "profit": "-85.65%",
+    "status": "Near Wiped",
+    "medal": ""
+  },
+  {
+    "rank": "46",
+    "name": "AVAX TrendTrap",
+    "direction": "Neutral",
+    "grids": 25,
+    "trades": 22,
+    "profit": "-92.74%",
+    "status": "Squeezed Out",
+    "medal": ""
+  },
+  {
+    "rank": "47",
+    "name": "SOL SqueezeVictim",
+    "direction": "Short",
+    "grids": 18,
+    "trades": 50,
+    "profit": "-99.91%",
+    "status": "Squeezed Out",
+    "medal": ""
+  },
+  {
+    "rank": "💀 48",
+    "name": "INJ AbyssFall",
+    "direction": "Neutral",
+    "grids": 10,
+    "trades": 4,
+    "profit": "-100.00%",
+    "status": "LIQUIDATED",
+    "medal": ""
+  },
+  {
+    "rank": "💀 49",
+    "name": "DOGE ShockCollapse",
+    "direction": "Short",
+    "grids": 12,
+    "trades": 20,
+    "profit": "-100.00%",
+    "status": "LIQUIDATED",
+    "medal": ""
+  },
+  {
+    "rank": "💀 50",
+    "name": "SHIB LiquidationMagnet",
+    "direction": "Short",
+    "grids": 15,
+    "trades": 13,
+    "profit": "-100.00%",
+    "status": "LIQUIDATED",
+    "medal": ""
+  }
+]
